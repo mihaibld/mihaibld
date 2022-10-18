@@ -1,4 +1,4 @@
-- 👋 I’m @mihaibld, Research Engineer.
+     Research Engineer
 - 👀 Especially interested in web development and knowledge expanding while solving problems by code writing.
 - 🌱 Web Development: - HTML, CSS, JavaScript.
 - 💞️ As a self-taught, I’m looking to progress and collabs on various projects.
