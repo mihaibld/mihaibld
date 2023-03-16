@@ -1,6 +1,6 @@
      Research Engineer
 - 👀 Mainly interested in web development and knowledge expanding while solving problems by code writing.
-- 🌱 Web Development: - HTML, CSS, JavaScript.
+- 🌱 Web Development: - HTML, CSS, JavaScript, React.js.
 - 💞️ As a self-taught, I’m looking to progress and collaborate on various projects.
 - 📫bledeam@gmail.com
 
