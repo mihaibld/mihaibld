@@ -1,6 +1,6 @@
      Research Engineer
 - 👀 Mainly interested in software development and knowledge expanding while solving problems by code writing.
-- 🌱 FE: - HTML, CSS, JavaScript, ReactJS.
+- 🌱 FE: - HTML, CSS, JavaScript, ReactJS, Vite.
 - 🌱 BE: - NestJS, TypeScript, SQLite, Postman.
 - 💞️ As a self-taught, I’m looking to progress and collaborate on various projects.
 - 📫bledeam@gmail.com
