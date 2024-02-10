@@ -1,6 +1,6 @@
      Research Engineer
 - 👀 Mainly interested in software development and knowledge expanding while solving problems by code writing.
-- 🌱 Tech used: - JavaScript, ReactJS, Vite, NestJS, Jest, TypeScript, Firebase, SQLite, Postman, Git.
+- 🌱 Tech used: - JavaScript, ReactJS, Sass, Vite, NestJS, Jest, TypeScript, Firebase, SQLite, Postman, Git.
 - 💞️ As a self-taught, I’m looking to progress and collaborate on various projects.
 - 📫bledeam@gmail.com
 
